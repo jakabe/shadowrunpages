@@ -1,3 +1,4 @@
 welcome runner
 
 <p>>Please review your <a href="https://jakabe.github.io/shadowrunpages/briefing/briefing.html">briefing package</a></p>
+<p>>...</p>
