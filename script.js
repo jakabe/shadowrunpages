@@ -29,7 +29,7 @@ var term = $('#terminal').terminal(function(command, term) {
         }
     }
 }, {
-    name: 'js_demo',
+    name: 'command_line',
     onResize: set_size,
     exit: false,
     // detect iframe codepen preview
@@ -48,7 +48,7 @@ var term = $('#terminal').terminal(function(command, term) {
             return this.src;
         });
     },
-    prompt: 'js> '
+    prompt: 'Runner:> '
 });
 // for codepen preview
 if (!term.enabled()) {
