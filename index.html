@@ -12,7 +12,18 @@
     <div class="tv">
         <div id="terminal"></div>
         <div class="collection external terminal">
-            See 
+            <script>
+            $(function() {
+                $('body').terminal({
+                    hello: function(what) {
+                        this.echo('Hello, ' + what +
+                                  '. Wellcome to this terminal.');
+                    }
+                }, {
+                    greetings: 'My First Web Terminal'
+                });
+            });
+            </script>
         </div>
         <div class="flicker"></div>
         <div class="scanlines"></div>
