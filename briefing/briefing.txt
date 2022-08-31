@@ -1,0 +1,6 @@
+>Briefing Package
+<p>><a href="https://jakabe.github.io/shadowrunpages/pages/slang/slang.html">common slang</a></p>
+<p>><a href="https://jakabe.github.io/shadowrunpages/pages/life.html">life in the sixth world</a></p>
+<p>><a href="https://jakabe.github.io/shadowrunpages/pages/team.html">team members</a></p>
+<p>><a href="https://jakabe.github.io/shadowrunpages/pages/mission_one.html">your first mission</a></p>
+<p>><a href="https://jakabe.github.io/shadowrunpages/pages/theboss.html">the boss</a></p>
