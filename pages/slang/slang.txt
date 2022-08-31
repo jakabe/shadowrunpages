@@ -2,9 +2,12 @@
 >Shadow Slang
 </p>
 
-<p>>breeder n. Ork slang for a “normal” human.</p>
-<p>>buzz v. Go away. Buzz off.</p>
-<p>>chill adj. Good, cool, acceptable.</p>
+>breeder n. Ork slang for a “normal” human.
+<br>
+>buzz v. Go away. Buzz off.
+<br>
+>chill adj. Good, cool, acceptable.
+<br>
 <p>>chip truth n. A fact or honest statement.</p>
 <p>>chipped adj. Senses, skills, reflexes, muscles, and so on, enhanced
 by cyberware.</p>
