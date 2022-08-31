@@ -95,7 +95,7 @@ var Typer = {
     }
   }
   
-  Typer.speed = 3;
+  Typer.speed = 6;
   Typer.file = 'slang.txt';
   Typer.init();
   
