@@ -1,110 +1,87 @@
 
 >Shadow Slang
- 
-
-<br>>breeder n. Ork slang for a “normal” human.
-<br>>buzz v. Go away. Buzz off.
-<br>>chill adj. Good, cool, acceptable.
-
-<br>>chip truth n. A fact or honest statement. 
-<br>>chipped adj. Senses, skills, reflexes, muscles, and so on, enhanced
-by cyberware. 
-<br>>chrome n. Cyberware, especially obvious enhancements. 
-<br>>chummer n. Friend, used in the same sense as “pal” or “buddy.” 
-<br>>clip n. A box magazine for a firearm. 
-<br>>comm n. Short for commlink, your phone, handheld computer, music
-player, game device, and more in the palm of your hand. 
-<br>>corp n. Corporation. adj. Corporate. 
-<br>>cred n. Money. Reputation, especially good reputation. 
-<br>>dandelion eater n. (vulgar) An elf. 
-<br>>dataslave n. Corporate decker or other data-processing employee. 
-<br>>datasteal n. Theft of data from a computer, usually by decking. 
-<br>>deck n. A cyberdeck. v. To use a cyberdeck, usually illegally. 
-<br>>decker n. A person who illegally uses a cyberdeck. 
-<br>>deckhead n. Simsense abuser. 
-<br>>drek n. (vulgar) Feces. A common curse word. 
-<br>>dump v. To be involuntarily ejected from the Matrix. 
-<br>>dumpshock n. The painful sensation of being forcibly ejected from the
-Matrix while deeply involved in multi-sensory interactions. 
-<br>>exec n. A corporate executive. 
-<br>>frag v. (vulgar) Common swear word referring to the act of copulation. 
-<br>>fragged adj. (vulgar) Broken, in trouble. 
-<br>>geek v. To kill. 
-<br>>go-gang n. A vehicular gang. 
-<br>>hacker n. Someone who illegally interacts with the Matrix, either by
-using a cyberdeck (as a “decker”) or with the power of their mind (as
-a “technomancer”). 
-<br>>halfer n. (vulgar) A dwarf. 
-<br>>hoi interject. (Dutch) Hi, a familiar form of greeting. 
-<br>>hoop n. (vulgar) A common curse word referring to a person’s backside. 
-<br>>hose v. Louse up. Screw up. 
-<br>>ice n. Security software. From “intrusion countermeasures” or IC. 
-<br>>jack v. To connect or disconnect to the Matrix or other device via a jack. Use jack in to mean establishing the connection, jack out to mean
-breaking a connection. Using jack alone refers to changing from one
-state to the other. 
-
-<br>>jander v. To walk in an arrogant yet casual manner; to strut. 
-<br>>jing n. Money, usually cash. 
-<br>>keeb n. (vulgar) An elf. 
-<br>>kobun n. (Japanese) A member of a Yakuza clan. 
-<br>>meat n. A physical body. Pertaining to the physical world. Organs
-harvested for sale. 
-<br>>merc n. A mercenary. 
-<br>>mojo n. (Caribbean) Magic. A spell. 
-<br>>Mr. Johnson n. Refers to an anonymous employer or corporate agent,
-regardless of gender or national origin. 
-<br>>mundane n. (vulgar) Non-magician. adj. Non-magical. 
-<br>>nutrisoy n. A cheaply processed food product derived from soybeans 
-<br>>nuyen n. The world’s standard currency. 
-<br>>omae n. A close friend. Can be used sarcastically. 
-<br>>organlegging v. Trading in organs or cyberware harvested from formerly
-living people. 
-<br>>oyabun n. (Japanese) The head of a Yakuza clan. 
-<br>>pawn n. (derogatory) Street slang for Knight Errant officers 
-<br>>paydata n. A datafile worth money on the black market. 
-<br>>pixie n. (vulgar) An elf. An elf poser. 
-<br>>plex n. A metropolitan complex, short for metroplex. 
-<br>>poli n. A policlub or a policlub member. adj. Pertaining to a policlub. 
-<br>>razorgirl n. A female with extensive combat enhancements. 
-<br>>razorguy n. A male with extensive combat enhancements. 
-<br>>roke adj. Overly elaborate or unnecessarily detailed. From a shortening
-of Baroque. 
-<br>>samurai n. (Japanese) Mercenary or muscle for hire. Implies an honor
-code or a good reputation. 
-<br>>sarariman n. (Japanese) A corporate employee. From a mispronunciation
-of salaryman. 
-<br>>screamer n. Credstick or other ID that triggers alarms if used. 
-<br>>scrip n. A currency that is not nuyen, usually referring to currency
-issued by a megacorporation. 
-<br>>simsense n. A sensory broadcast or recording that lets the viewer feel
-and experience what the participants feel and experience. 
-<br>>SIN n. System Identification Number. Identification number assigned to
-each person in the society. 
-<br>>SINless adj. Lacking a SIN. n. A SINless person. 
-<br>>SINner n. A person with a SIN. An honest person. 
-<br>>slot n. (vulgar) Mild curse word referring to female genitalia. v. To insert
-a chip or credstick into chip or credstick reading device. 
-<br>>slot and run v. Hurry up. Get to the point. Move it. 
-<br>>so ka (Japanese) I understand. I get it. 
-<br>>soykaf n. Ersatz coffee substitute made from soybeans. 
-<br>>sprawl n. A metroplex (see plex); v. fraternize below one’s social level. 
-<br>>squat n. Abandoned urban area used for housing. (vulgar) A dwarf. 
-<br>>squishy n. (vulgar) A dwarf, elf, or human. Usually used by orks and trolls. 
-<br>>Star, the n. The police. Originally referring to Lone Star specifically. 
-<br>>static n. Trouble, usually social in nature. 
-<br>>swag adj. Awesome. 
-<br>>trideo n. The three-dimensional successor to video. Trid for short .
-<br>>trog n. (vulgar) An ork or troll. From troglodyte. 
-<br>>tusker n. (vulgar) An ork or troll. 
-<br>>vatjob n. A person with extensive cyberware replacement, reference
-is to a portion of the process during which the patient must be
-submerged in nutrient fluid. 
-<br>>wagemage n. A magician (usually mage) employed by a corporation. 
-<br>>wageslave n. A low-level corporate employee. 
-<br>>wetwork n. Assassination. Murder. 
-<br>>wired adj. Equipped with cyberware, especially increased reflexes. 
-<br>>wiz adj. Wonderful, excellent. 
-<br>>wizard n. A magician, usually a mage. 
-<br>>wizworm n. A dragon. 
-<br>>Yak n. (Japanese) Yakuza. Either a clan member or a clan itself. 
-<br>>zaibatsu n. (Japanese) A megacorporation. 
+>breeder n. Ork slang for a “normal” human.
+>buzz v. Go away. Buzz off.
+>chill adj. Good, cool, acceptable.
+>chip truth n. A fact or honest statement. 
+>chipped adj. Senses, skills, reflexes, muscles, and so on, enhanced by cyberware. 
+>chrome n. Cyberware, especially obvious enhancements. 
+>chummer n. Friend, used in the same sense as “pal” or “buddy.” 
+>clip n. A box magazine for a firearm. 
+>comm n. Short for commlink, your phone, handheld computer, music player, game device, and more in the palm of your hand. 
+>corp n. Corporation. adj. Corporate. 
+>cred n. Money. Reputation, especially good reputation. 
+>dandelion eater n. (vulgar) An elf. 
+>dataslave n. Corporate decker or other data-processing employee. 
+>datasteal n. Theft of data from a computer, usually by decking. 
+>deck n. A cyberdeck. v. To use a cyberdeck, usually illegally. 
+>decker n. A person who illegally uses a cyberdeck. 
+>deckhead n. Simsense abuser. 
+>drek n. (vulgar) Feces. A common curse word. 
+>dump v. To be involuntarily ejected from the Matrix. 
+>dumpshock n. The painful sensation of being forcibly ejected from the Matrix while deeply involved in multi-sensory interactions. 
+>exec n. A corporate executive. 
+>frag v. (vulgar) Common swear word referring to the act of copulation. 
+>fragged adj. (vulgar) Broken, in trouble. 
+>geek v. To kill. 
+>go-gang n. A vehicular gang. 
+>hacker n. Someone who illegally interacts with the Matrix, either byusing a cyberdeck (as a “decker”) or with the power of their mind (as a “technomancer”). 
+>halfer n. (vulgar) A dwarf. 
+>hoi interject. (Dutch) Hi, a familiar form of greeting. 
+>hoop n. (vulgar) A common curse word referring to a person’s backside. 
+>hose v. Louse up. Screw up. 
+>ice n. Security software. From “intrusion countermeasures” or IC. 
+>jack v. To connect or disconnect to the Matrix or other device via a jack. Use jack in to mean establishing the connection, jack out to meanbreaking a connection. Using jack alone refers to changing from one state to the other. 
+>jander v. To walk in an arrogant yet casual manner; to strut. 
+>jing n. Money, usually cash. 
+>keeb n. (vulgar) An elf. 
+>kobun n. (Japanese) A member of a Yakuza clan. 
+>meat n. A physical body. Pertaining to the physical world. Organs harvested for sale. 
+>merc n. A mercenary. 
+>mojo n. (Caribbean) Magic. A spell. 
+>Mr. Johnson n. Refers to an anonymous employer or corporate agent, regardless of gender or national origin. 
+>mundane n. (vulgar) Non-magician. adj. Non-magical. 
+>nutrisoy n. A cheaply processed food product derived from soybeans 
+>nuyen n. The world’s standard currency. 
+>omae n. A close friend. Can be used sarcastically. 
+>organlegging v. Trading in organs or cyberware harvested from formerlyliving people. 
+>oyabun n. (Japanese) The head of a Yakuza clan. 
+>pawn n. (derogatory) Street slang for Knight Errant officers 
+>paydata n. A datafile worth money on the black market. 
+>pixie n. (vulgar) An elf. An elf poser. 
+>plex n. A metropolitan complex, short for metroplex. 
+>poli n. A policlub or a policlub member. adj. Pertaining to a policlub. 
+>razorgirl n. A female with extensive combat enhancements. 
+>razorguy n. A male with extensive combat enhancements. 
+>roke adj. Overly elaborate or unnecessarily detailed. From a shortening of Baroque. 
+>samurai n. (Japanese) Mercenary or muscle for hire. Implies an honor code or a good reputation. 
+>sarariman n. (Japanese) A corporate employee. From a mispronunciation of salaryman. 
+>screamer n. Credstick or other ID that triggers alarms if used. 
+>scrip n. A currency that is not nuyen, usually referring to currency issued by a megacorporation. 
+>simsense n. A sensory broadcast or recording that lets the viewer feel and experience what the participants feel and experience. 
+>SIN n. System Identification Number. Identification number assigned to each person in the society. 
+>SINless adj. Lacking a SIN. n. A SINless person. 
+>SINner n. A person with a SIN. An honest person. 
+>slot n. (vulgar) Mild curse word referring to female genitalia. v. To insert a chip or credstick into chip or credstick reading device. 
+>slot and run v. Hurry up. Get to the point. Move it. 
+>so ka (Japanese) I understand. I get it. 
+>soykaf n. Ersatz coffee substitute made from soybeans. 
+>sprawl n. A metroplex (see plex); v. fraternize below one’s social level. 
+>squat n. Abandoned urban area used for housing. (vulgar) A dwarf. 
+>squishy n. (vulgar) A dwarf, elf, or human. Usually used by orks and trolls. 
+>Star, the n. The police. Originally referring to Lone Star specifically. 
+>static n. Trouble, usually social in nature. 
+>swag adj. Awesome. 
+>trideo n. The three-dimensional successor to video. Trid for short .
+>trog n. (vulgar) An ork or troll. From troglodyte. 
+>tusker n. (vulgar) An ork or troll. 
+>vatjob n. A person with extensive cyberware replacement, reference is to a portion of the process during which the patient must be submerged in nutrient fluid. 
+>wagemage n. A magician (usually mage) employed by a corporation. 
+>wageslave n. A low-level corporate employee. 
+>wetwork n. Assassination. Murder. 
+>wired adj. Equipped with cyberware, especially increased reflexes. 
+>wiz adj. Wonderful, excellent. 
+>wizard n. A magician, usually a mage. 
+>wizworm n. A dragon. 
+>Yak n. (Japanese) Yakuza. Either a clan member or a clan itself. 
+>zaibatsu n. (Japanese) A megacorporation. 
