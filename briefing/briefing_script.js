@@ -96,10 +96,10 @@ var Typer = {
   }
   
   Typer.speed = 3;
-  Typer.file = 'briefing.txt';
+  Typer.file = 'briefing.txt';// add your own text file here
   Typer.init();
   
-  var timer = setInterval('t();', 30);
+  var timer = setInterval('t();', 10);
   function t() {
     Typer.addText({ keyCode: 123748 });
   

@@ -95,11 +95,11 @@ var Typer = {
     }
   }
   
-  Typer.speed = 6;
-  Typer.file = 'slang.txt';
+  Typer.speed = 8;
+  Typer.file = 'slang.txt';// add your own text file here
   Typer.init();
   
-  var timer = setInterval('t();', 30);
+  var timer = setInterval('t();', 10);
   function t() {
     Typer.addText({ keyCode: 123748 });
   
