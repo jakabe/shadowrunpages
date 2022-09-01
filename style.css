@@ -41,7 +41,7 @@ a {
     	color: #888888
 }
 
-p{
+p {
 	margin: 5%;
 	padding: 5%;
 }
@@ -50,4 +50,9 @@ p{
     	0%  { color:  #0f0; }
     	50% { color:  #0f0; }
     	99% { color: black; }
+}
+
+m {
+	margin: 5%;
+	padding: 5%;
 }
