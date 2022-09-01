@@ -42,8 +42,12 @@ a {
 }
 
 p {
-	margin: 10%;
-	padding: 10%;
+	margin-top: 5%;
+	margin-bottom: 5%;
+	margin-left: 0%;
+	padding-top: 5%;
+	padding-bottom: 5%;
+	padding-left:0%;
 }
 
 @keyframes change {
@@ -53,6 +57,11 @@ p {
 }
 
 m {
-	margin: 5%;
-	padding: 5%;
+	margin-top: 5%;
+	margin-bottom: 5%;
+	margin-left: 0%;
+	padding-top: 5%;
+	padding-bottom: 5%;
+	padding-left:0%;
+
 }
