@@ -1,9 +1,9 @@
 
 >Briefing Package
 <p>
-<m> ><a href="https://jakabe.github.io/shadowrunpages/pages/slang/slang.html">common slang</a></m>
-<m> ><a href="https://jakabe.github.io/shadowrunpages/pages/life/life.html">life in the sixth world</a></m>
-<m> ><a href="https://jakabe.github.io/shadowrunpages/pages/team.html">team members</a></m>
-<m> ><a href="https://jakabe.github.io/shadowrunpages/pages/mission_one.html">your first mission</a></m>
-<m> ><a href="https://jakabe.github.io/shadowrunpages/pages/theboss.html">the boss</a></m>
+  ><a href="https://jakabe.github.io/shadowrunpages/pages/slang/slang.html">common slang</a> 
+  ><a href="https://jakabe.github.io/shadowrunpages/pages/life/life.html">life in the sixth world</a> 
+  ><a href="https://jakabe.github.io/shadowrunpages/pages/team.html">team members</a> 
+  ><a href="https://jakabe.github.io/shadowrunpages/pages/mission_one.html">your first mission</a> 
+  ><a href="https://jakabe.github.io/shadowrunpages/pages/theboss.html">the boss</a> 
 </p>
